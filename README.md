@@ -13,8 +13,19 @@ install the packages needful to us as per package.json file...To Run on your sys
 
 **Screenshots :**
 
+**subscribed to your mailchimp account as per mentioned API ID in the app.js file**
+
 ![04](https://github.com/aswin98855/Mailchimp-API/assets/116991167/a3366ccd-30af-45df-b93d-32783b5d2efb)
+
+**Subscribed person details**
+
 ![03](https://github.com/aswin98855/Mailchimp-API/assets/116991167/3b1a37df-c9cd-49f7-8838-f0c03afd7cd9)
+
+**Success Page**
+
 ![02](https://github.com/aswin98855/Mailchimp-API/assets/116991167/d986b4bb-874b-46a2-8918-45edf4eba5d6)
+
+**Failure Page**
+
 ![01](https://github.com/aswin98855/Mailchimp-API/assets/116991167/ab96f5ae-4008-4b7c-9a2a-980271f10f05)
 
